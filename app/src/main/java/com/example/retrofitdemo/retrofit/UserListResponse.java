@@ -1,4 +1,4 @@
-package com.example.retrofitdemo;
+package com.example.retrofitdemo.retrofit;
 
 
 import java.util.HashMap;
